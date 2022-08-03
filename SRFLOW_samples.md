@@ -37,97 +37,244 @@ With temperature equal to $1.1$
 
 ## Sand
 
-
-With a factor $\times 2$
-
-
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/sand/Gaussian_factor_2.gif)
-
-With a factor $\times 4$
+With a temperature equal to $0.1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/sand/Gaussian_factor_4.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_0.1.gif)
 
-With a factor $\times 8$
+With temperature equal to $0.3$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_0.3.gif)
+
+With temperature equal to $0.5$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_0.5.gif)
+
+With temperature equal to $0.7$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_0.7.gif)
+
+With temperature equal to $0.9$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/sand/Gaussian_factor_8.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_0.9.gif)
 
-With a factor $\times 16$
+With temperature equal to $1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/sand/Gaussian_factor_16.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_1.gif)
+
+With temperature equal to $1.1$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_1.1.gif)
 
 ## Grass
 
 
-With a factor $\times 2$
+With a temperature equal to $0.1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/grass/Gaussian_factor_2.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_0.1.gif)
 
-With a factor $\times 4$
+With temperature equal to $0.3$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_0.3.gif)
+
+With temperature equal to $0.5$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_0.5.gif)
+
+With temperature equal to $0.7$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_0.7.gif)
+
+With temperature equal to $0.9$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/grass/Gaussian_factor_4.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_0.9.gif)
 
-With a factor $\times 8$
-
-
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/grass/Gaussian_factor_8.gif)
-
-With a factor $\times 16$
+With temperature equal to $1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/grass/Gaussian_factor_16.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_1.gif)
+
+With temperature equal to $1.1$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_1.1.gif)
 
 
 ## Wall
 
 
 
-With a factor $\times 2$
+With a temperature equal to $0.1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/wall/Gaussian_factor_2.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_0.1.gif)
 
-With a factor $\times 4$
+With temperature equal to $0.3$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_0.3.gif)
+
+With temperature equal to $0.5$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_0.5.gif)
+
+With temperature equal to $0.7$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_0.7.gif)
+
+With temperature equal to $0.9$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/wall/Gaussian_factor_4.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_0.9.gif)
 
-With a factor $\times 8$
-
-
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/wall/Gaussian_factor_8.gif)
-
-With a factor $\times 16$
+With temperature equal to $1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/wall/Gaussian_factor_16.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_1.gif)
+
+With temperature equal to $1.1$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_1.1.gif)
 
 
 ## Pebbles
 
 
 
-With a factor $\times 2$
+With a temperature equal to $0.1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/pebbles/Gaussian_factor_2.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_0.1.gif)
 
-With a factor $\times 4$
+With temperature equal to $0.3$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_0.3.gif)
+
+With temperature equal to $0.5$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_0.5.gif)
+
+With temperature equal to $0.7$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_0.7.gif)
+
+With temperature equal to $0.9$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/pebbles/Gaussian_factor_4.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_0.9.gif)
 
-With a factor $\times 8$
-
-
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/pebbles/Gaussian_factor_8.gif)
-
-With a factor $\times 16$
+With temperature equal to $1$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/Gaussia_model/pebbles/Gaussian_factor_16.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_1.gif)
 
+With temperature equal to $1.1$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_1.1.gif)
+
+## Double texture
+
+
+
+With a temperature equal to $0.1$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_0.1.gif)
+
+With temperature equal to $0.3$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_0.3.gif)
+
+With temperature equal to $0.5$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_0.5.gif)
+
+With temperature equal to $0.7$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_0.7.gif)
+
+With temperature equal to $0.9$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_0.9.gif)
+
+With temperature equal to $1$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_1.gif)
+
+With temperature equal to $1.1$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_1.1.gif)
+
+## 0872
+
+
+
+With a temperature equal to $0.1$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_0.1.gif)
+
+With temperature equal to $0.3$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_0.3.gif)
+
+With temperature equal to $0.5$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_0.5.gif)
+
+With temperature equal to $0.7$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_0.7.gif)
+
+With temperature equal to $0.9$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_0.9.gif)
+
+With temperature equal to $1$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_1.gif)
+
+With temperature equal to $1.1$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_1.1.gif)
+
+## 0821
+
+
+
+With a temperature equal to $0.1$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_0.1.gif)
+
+With temperature equal to $0.3$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_0.3.gif)
+
+With temperature equal to $0.5$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_0.5.gif)
+
+With temperature equal to $0.7$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_0.7.gif)
+
+With temperature equal to $0.9$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_0.9.gif)
+
+With temperature equal to $1$
+
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_1.gif)
+
+With temperature equal to $1.1$
+
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_1.1.gif)
