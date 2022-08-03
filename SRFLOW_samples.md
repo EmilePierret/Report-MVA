@@ -29,9 +29,9 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/fabric/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/fabric/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/fabric/SRFLOW_temperature_1.2.gif)
 
 
 
@@ -64,9 +64,9 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/sand/SRFLOW_temperature_1.2.gif)
 
 ## Grass
 
@@ -98,9 +98,9 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/grass/SRFLOW_temperature_1.2.gif)
 
 
 ## Wall
@@ -134,9 +134,9 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/wall/SRFLOW_temperature_1.2.gif)
 
 
 ## Pebbles
@@ -170,9 +170,9 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/pebbles/SRFLOW_temperature_1.2.gif)
 
 ## Double texture
 
@@ -205,9 +205,9 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/mix/SRFLOW_temperature_1.2.gif)
 
 ## 0872
 
@@ -240,9 +240,9 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0872/SRFLOW_temperature_1.2.gif)
 
 ## 0821
 
@@ -275,6 +275,6 @@ With temperature equal to $1$
 
 ![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_1.gif)
 
-With temperature equal to $1.1$
+With temperature equal to $1.2$
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_1.1.gif)
+![](https://github.com/EmilePierret/Report-MVA/blob/main/SRFlow_samples/0821/SRFLOW_temperature_1.2.gif)
