@@ -5,22 +5,22 @@
 With a factor $\times 2$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/fabric/2.gif)
+![](https://github.com/EmilePierret/Report-MVA/tree/main/Gaussian%20model/fabric/Gaussian_factor_2.gif)
 
 With a factor $\times 4$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/fabric/4.gif)
+![](https://github.com/EmilePierret/Report-MVA/tree/main/Gaussian%20model/fabric/Gaussian_factor_4.gif)
 
 With a factor $\times 8$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/fabric/8.gif)
+![](https://github.com/EmilePierret/Report-MVA/tree/main/Gaussian%20model/fabric/Gaussian_factor_8.gif)
 
 With a factor $\times 16$
 
 
-![](https://github.com/EmilePierret/Report-MVA/blob/main/fabric/16.gif)
+![](https://github.com/EmilePierret/Report-MVA/tree/main/Gaussian%20model/fabric/Gaussian_factor_16.gif)
 
 
 ## Sand
