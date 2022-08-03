@@ -5,7 +5,7 @@
 With a factor $\times 2$
 
 
-![]("https://github.com/EmilePierret/Report-MVA/tree/main/Gaussian model/fabric/Gaussian_factor_2.gif")
+![](https://github.com/EmilePierret/Report-MVA/tree/main/Gaussia_model/fabric/Gaussian_factor_2.gif)
 
 With a factor $\times 4$
 
